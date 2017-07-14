@@ -10,6 +10,7 @@
 #include <ctime>
 #include <string.h>
 #include <cstdint>
+#include <cstring>
 
 #include "CodedWorker.h"
 #include "CodedConfiguration.h"
