@@ -7,6 +7,7 @@
 #include <assert.h>
 #include <algorithm>
 #include <ctime>
+#include <cstring>
 
 #include "Worker.h"
 #include "Configuration.h"
