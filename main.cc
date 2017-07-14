@@ -20,7 +20,7 @@ int main()
     Worker workerNode( nodeRank );
     workerNode.run();
   }
-  cout<<"nodeRank : "<<nodeRank<<"\n";
+
   MPI::Finalize();
   
   return 0;
